@@ -2,6 +2,7 @@
 
 - Ngôn ngữ lập trình: `Python`, `C++`, `Java`, `Pascal`
 - Phương thức nhập/xuất: `Thủ công`[^1]
+- Mục đích: kiểm tra tính năng nhập/xuất thủ công, tính chính xác, khách quan của phần mềm.
 
 ## Bài thi (`exams`)
 
