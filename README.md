@@ -1,6 +1,5 @@
 # Đề bài
 
-- Ngôn ngữ lập trình: `Python`, `Java`, `C++`, `Pascal`
 - Thời gian chay: `4000ms`
 - Phân biệt hoa/thường: `Có`
 
