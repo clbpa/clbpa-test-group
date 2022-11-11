@@ -65,9 +65,9 @@ Các tên tệp đầu vào/đầu ra được đặt theo quy tắc: `<Mã bài
 
 | Bài thi | Tên mã nguồn   | NNLT   |
 | ------- | -------------- | ------ |
-| BAI-1   | `BAI-1.cpp`    | C++    |
-| BAI-2   | `BAI-2.python` | Python |
-| BAI-3   | `BAI-3.java`   | Java   |
+| BAI-1   | `BAI-1.pascal` | Pascal |
+| BAI-2   | `BAI-2.java`   | Java   |
+| BAI-3   | `BAI-3.cpp`    | C++    |
 
 ## Kết quả (`results`)
 
