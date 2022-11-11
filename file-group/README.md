@@ -29,7 +29,7 @@ Các tên tệp đầu vào/đầu ra được đặt theo quy tắc: `<Mã bài
 
 ## Thí sinh (`users`)
 
-- Số lượng thí sinh: `10`
+- Số lượng thí sinh: `15`
 - **_Lưu ý:_** Ở bài kiểm thử này, tất cả thí sinh đều có bài làm **_giống hệt nhau_**.
 
 ### Thí sinh 1 (`000001`)
@@ -105,6 +105,46 @@ Các tên tệp đầu vào/đầu ra được đặt theo quy tắc: `<Mã bài
 | BAI-3   | `BAI-3.py`   | Python |
 
 ### Thí sinh 10 (`000010`)
+
+| Bài thi | Tên mã nguồn | NNLT   |
+| ------- | ------------ | ------ |
+| BAI-1   | `BAI-1.py`   | Python |
+| BAI-2   | `BAI-2.py`   | Python |
+| BAI-3   | `BAI-3.py`   | Python |
+
+### Thí sinh 11 (`000011`)
+
+| Bài thi | Tên mã nguồn | NNLT   |
+| ------- | ------------ | ------ |
+| BAI-1   | `BAI-1.py`   | Python |
+| BAI-2   | `BAI-2.py`   | Python |
+| BAI-3   | `BAI-3.py`   | Python |
+
+### Thí sinh 12 (`000012`)
+
+| Bài thi | Tên mã nguồn | NNLT   |
+| ------- | ------------ | ------ |
+| BAI-1   | `BAI-1.py`   | Python |
+| BAI-2   | `BAI-2.py`   | Python |
+| BAI-3   | `BAI-3.py`   | Python |
+
+### Thí sinh 13 (`000013`)
+
+| Bài thi | Tên mã nguồn | NNLT   |
+| ------- | ------------ | ------ |
+| BAI-1   | `BAI-1.py`   | Python |
+| BAI-2   | `BAI-2.py`   | Python |
+| BAI-3   | `BAI-3.py`   | Python |
+
+### Thí sinh 14 (`000014`)
+
+| Bài thi | Tên mã nguồn | NNLT   |
+| ------- | ------------ | ------ |
+| BAI-1   | `BAI-1.py`   | Python |
+| BAI-2   | `BAI-2.py`   | Python |
+| BAI-3   | `BAI-3.py`   | Python |
+
+### Thí sinh 15 (`000015`)
 
 | Bài thi | Tên mã nguồn | NNLT   |
 | ------- | ------------ | ------ |
