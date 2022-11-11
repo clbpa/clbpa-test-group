@@ -3,7 +3,7 @@
 - Thời gian chay: `4000ms`
 - Phân biệt hoa/thường: `Có`
 
-## Bài 1 (BAI-1)
+## Bài 1 (BAI1)
 
 Viết chương trình tìm `UCLN`[^1] và `BCNN`[^2] của 2 số nguyên dương.
 
@@ -21,7 +21,7 @@ Gồm 2 số lần lượt là `UCLN` và `BCNN` của 2 số `a` và `b` cách 
 | ------- | -------- |
 | `30 40` | `10 120` |
 
-## Bài 2 (BAI-2)
+## Bài 2 (BAI2)
 
 Viết chương trình kiểm tra xem 1 số có phải là số hay không.
 
@@ -40,7 +40,7 @@ Nếu `n` là số nguyên dương thì xuất ra `true`, nếu không phải th
 | `2`   | `true`  |
 | `4`   | `false` |
 
-## Bài 3 (BAI-3)
+## Bài 3 (BAI3)
 
 Cho 1 xâu kí tự, hãy nén xâu đã cho theo quy tắc:
 
