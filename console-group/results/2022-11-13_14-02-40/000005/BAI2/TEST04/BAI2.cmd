@@ -1,0 +1,1 @@
+D:\tozymc\IdeaProjects\clbpa-test-group\bundle-sdks\jdk8u352-b08\bin\java BAI2 <BAI2.in>BAI2.out

@@ -1,0 +1,1 @@
+D:\tozymc\IdeaProjects\clbpa-test-group\bundle-sdks\python-3.11.0\python BAI3.py <BAI3.in>BAI3.out

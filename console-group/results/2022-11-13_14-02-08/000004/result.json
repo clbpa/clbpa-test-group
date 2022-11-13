@@ -1,0 +1,1 @@
+{"id":"000004","exams":{"BAI1":{"status":"NO_SRC","passed":0,"total":5,"language":"","averageExecuteTime":-1,"tests":{}},"BAI2":{"status":"NO_SRC","passed":0,"total":5,"language":"","averageExecuteTime":-1,"tests":{}},"BAI3":{"status":"COMPILE_ERROR","passed":0,"total":5,"language":"Java","averageExecuteTime":-1,"tests":{}}}}

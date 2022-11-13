@@ -1,0 +1,1 @@
+D:\tozymc\IdeaProjects\clbpa-test-group\console-group\results\2022-11-13_14-02-40\000005\BAI3\BAI3.exe <BAI3.in>BAI3.out
